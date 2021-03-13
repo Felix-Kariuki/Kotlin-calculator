@@ -77,8 +77,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btnRightBrace"
                 android:layout_width="match_parent"
@@ -90,8 +89,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -107,8 +105,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBtnDivide"
                 android:stateListAnimator="@null"
-                android:background="@drawable/btn_equal_bg"
-                tools:targetApi="lollipop" />
+                android:background="@drawable/btn_equal_bg"/>
             </RelativeLayout>
 
         </LinearLayout>
@@ -128,8 +125,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btn8"
                 android:layout_width="match_parent"
@@ -140,8 +136,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btn9"
                 android:layout_width="match_parent"
@@ -152,8 +147,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -169,8 +163,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="#44AF39"
                 android:stateListAnimator="@null"
-                android:background="@drawable/btn_equal_bg"
-                tools:targetApi="lollipop" />
+                android:background="@drawable/btn_equal_bg"/>
             </RelativeLayout>
 
         </LinearLayout>
@@ -191,8 +184,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btn5"
                 android:layout_width="match_parent"
@@ -203,8 +195,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btn6"
                 android:layout_width="match_parent"
@@ -215,8 +206,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -232,8 +222,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="#3A52Fc"
                 android:stateListAnimator="@null"
-                android:background="@drawable/btn_equal_bg"
-                tools:targetApi="lollipop" />
+                android:background="@drawable/btn_equal_bg"/>
             </RelativeLayout>
 
         </LinearLayout>
@@ -253,8 +242,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btn2"
                 android:layout_width="match_parent"
@@ -265,8 +253,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btn3"
                 android:layout_width="match_parent"
@@ -277,8 +264,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -294,8 +280,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorAccent"
                 android:stateListAnimator="@null"
-                android:background="@drawable/btn_equal_bg"
-                tools:targetApi="lollipop" />
+                android:background="@drawable/btn_equal_bg"/>
             </RelativeLayout>
 
         </LinearLayout>
@@ -315,8 +300,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btn0"
                 android:layout_width="match_parent"
@@ -327,8 +311,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <Button
                 android:id="@+id/btnDot"
                 android:layout_width="match_parent"
@@ -340,8 +323,7 @@
                 android:textColor="@color/colorWhite"
                 app:backgroundTint="@color/colorBlack"
                 android:stateListAnimator="@null"
-                android:background="@color/colorBlack"
-                tools:targetApi="lollipop" />
+                android:background="@color/colorBlack"/>
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -358,8 +340,7 @@
                     android:textColor="@color/colorWhite"
                     android:textSize="22sp"
                     android:textStyle="bold"
-                    app:backgroundTint="@color/purple_200"
-                    tools:targetApi="lollipop" />
+                    app:backgroundTint="@color/purple_200" />
 
             </RelativeLayout>
 
